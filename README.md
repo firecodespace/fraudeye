@@ -136,9 +136,9 @@ POST /fraud/predict
 ---
 
 ## 📌 Contributors
-👨‍💻 **Backend Engineer:** [Your Name]  
-🎨 **Frontend Developer:** [Teammate Name]  
-🧠 **AI Model Developer:** [Teammate Name]  
+👨‍💻 **Backend Engineer:** Aditya  
+🎨 **Frontend Developer:** Yash Bendersh
+🧠 **AI Model Developer:** Agastya Dahiya
 
 ---
 
